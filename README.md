@@ -35,9 +35,25 @@ The application supports **Admin** and **User** roles with complete booking and 
 - Git & GitHub  
 
 ---
+---
+
+## 🖼 Screenshots
+
+### 🔐 Login Screen
+![Login](screenshots/login.png)
+
+### 🎟 User – View & Book Movies
+![User View](screenshots/user-view.png)
+
+### 🗂 Admin – View Bookings
+![Admin Bookings](screenshots/admin-bookings.png)
+
+### 📊 Admin Dashboard
+![Dashboard](screenshots/admin-dashboard.png)
+
+---
 
 ## 🗂 Project Structure
-
 
 ---
 
@@ -92,4 +108,3 @@ CREATE TABLE bookings (
 6. Run `MovieTicketSystemUI.java`
 
 ---
-
